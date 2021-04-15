@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a7784ea795ff9d2736cac0c080853f5d.js"
+  "/precache-manifest.b8f9dccb343dd3ebb20898c6bc90d110.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "githubTools-pwa"});
